@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: 45a7668bc5f9ce148b39591edec07033
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 20
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: play-d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1990.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47019487ca5ea4645b942bbdc770f47c
+      internalID: -2023229563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play-h
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1990.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ba04dd47204c0428fdaafa5d5ec5b5
+      internalID: 1588057189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controls-d
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1990.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f684afa3afe0e4b8c4a1619eece547
+      internalID: -753156884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controls-h
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 1990.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b1fc6a6fc3d40499928d5dd8a9b517
+      internalID: -1557203924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reaper-d
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 1990.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd45db9543c6e04469b8c0d0c35f1807
+      internalID: 461009113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reaper-h
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 1990.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c8b793f97997a429ffee75c10da6f7
+      internalID: 978552531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back-d
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1493.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea91f827f34f5754d965c23f7a597038
+      internalID: 68048527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back-h
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 1493.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74e6041beb86fa48bfc26dc3b813f49
+      internalID: -1665089750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hades-d
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 1493.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9fd76b3c143e647b2c436fc820b4cb
+      internalID: -1663342959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hades-h
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 1493.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9771403be2fbb334bb96d894a605827c
+      internalID: 1577832910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: credits-d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 996.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c30991d3add1a4392be3fbfdf923c1
+      internalID: -516907255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: credits-h
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 996.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f6379b6e1cfab4c94cdabc1690913b
+      internalID: 837320287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volume-d
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 996.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfe04497914b3840ba38f484bf25a62
+      internalID: 269154380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volume-h
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 996.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48636611073aeed47b206804e02fbd02
+      internalID: 486442985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hela-d
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 996.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24614a4b65cbe7d4e872c159a6660f23
+      internalID: 1552441984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hela-h
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 996.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6795a95c16b3063438d01622220b20ed
+      internalID: -1396021262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settings-d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfccea26f0ec4544a7b59945dbd352f
+      internalID: 1349245922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settings-h
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 499.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a993518b056a5904f8067faa23efadb2
+      internalID: -1160721245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confirm-d
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 499.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e106bfbf521e14aa9e33a6700f8365
+      internalID: -1234582617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confirm-h
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 499.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7ca2bcb1630e54e87105eb118a65d0
+      internalID: 657971414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anubis-d
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 499.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181dccf0c4b2bf847a21a06f9eaf2674
+      internalID: -2078787957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anubis-h
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 499.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4966dd1e350fe4397efccefce15e18
+      internalID: 1190689536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit-d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.399994
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8577f2f4794c4e4694a9ee92d4a4906
+      internalID: -114710479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit-h
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2.399994
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4544280014d846e4781ced3c7ae4e801
+      internalID: 1049102633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: variants-d
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2.399994
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76324c7e9899f3149abfb2024f0f50e2
+      internalID: 1744750003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: variants-h
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 2.399994
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff11c58b7cdc5f42b480a94ea7984e1
+      internalID: 192670132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial-d
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1493.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ea5d6428cc44c40859ece118fd2c2d
+      internalID: 202580565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tutorial-h
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1493.4
+        width: 1360
+        height: 497.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2bf7a36fa0da24c89878861ffb518a
+      internalID: -958178587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d5b113f0d67cdc54388cc847782a5c89
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      anubis-d: -2078787957
+      anubis-h: 1190689536
+      back-d: 68048527
+      back-h: -1665089750
+      confirm-d: -1234582617
+      confirm-h: 657971414
+      controls-d: -753156884
+      controls-h: -1557203924
+      credits-d: -516907255
+      credits-h: 837320287
+      exit-d: -114710479
+      exit-h: 1049102633
+      hades-d: -1663342959
+      hades-h: 1577832910
+      hela-d: 1552441984
+      hela-h: -1396021262
+      play-d: -2023229563
+      play-h: 1588057189
+      reaper-d: 461009113
+      reaper-h: 978552531
+      settings-d: 1349245922
+      settings-h: -1160721245
+      tutorial-d: 202580565
+      tutorial-h: -958178587
+      variants-d: 1744750003
+      variants-h: 192670132
+      volume-d: 269154380
+      volume-h: 486442985
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
